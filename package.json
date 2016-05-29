@@ -2,7 +2,7 @@
   "name": "fixed-data-table",
   "version": "0.6.0",
   "description": "A React table component designed to allow presenting thousands of rows of data.",
-  "main": "main.js",
+  "main": "dist/fixed-data-table.min.js",
   "peerDependencies": {
     "react": ">=0.13.0 <0.15.0 || ^15.0.0",
     "react-dom": ">=0.14.0 <0.15.0 || ^15.0.0"
